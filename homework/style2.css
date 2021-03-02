@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+    ul{
+        list-style-type: none; margin:0; padding: 0;
+        overflow:visible; background-color: gainsboro;}
+  
+
+    li a{display:block; color: darkslateblue; 
+    padding: 20px; text-align: center; text-decoration:none; font-size: 18px; float:left; position:relative;  }
+    li a:hover{background-color: ghostwhite;}
